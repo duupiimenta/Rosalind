@@ -1,0 +1,5 @@
+C:\Users\eduar\Desktop\Rosalind\Counting DNA Nucleotides\Counting DNA Nucleotides\bin\Debug\Counting DNA Nucleotides.exe.config
+C:\Users\eduar\Desktop\Rosalind\Counting DNA Nucleotides\Counting DNA Nucleotides\bin\Debug\Counting DNA Nucleotides.exe
+C:\Users\eduar\Desktop\Rosalind\Counting DNA Nucleotides\Counting DNA Nucleotides\bin\Debug\Counting DNA Nucleotides.pdb
+C:\Users\eduar\Desktop\Rosalind\Counting DNA Nucleotides\Counting DNA Nucleotides\obj\Debug\Counting DNA Nucleotides.exe
+C:\Users\eduar\Desktop\Rosalind\Counting DNA Nucleotides\Counting DNA Nucleotides\obj\Debug\Counting DNA Nucleotides.pdb
