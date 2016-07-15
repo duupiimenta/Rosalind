@@ -1,0 +1,5 @@
+C:\Users\eduar\Desktop\Rosalind\Transcribing DNA into RNA\Transcribing DNA into RNA\bin\Debug\Transcribing DNA into RNA.exe.config
+C:\Users\eduar\Desktop\Rosalind\Transcribing DNA into RNA\Transcribing DNA into RNA\bin\Debug\Transcribing DNA into RNA.exe
+C:\Users\eduar\Desktop\Rosalind\Transcribing DNA into RNA\Transcribing DNA into RNA\bin\Debug\Transcribing DNA into RNA.pdb
+C:\Users\eduar\Desktop\Rosalind\Transcribing DNA into RNA\Transcribing DNA into RNA\obj\Debug\Transcribing DNA into RNA.exe
+C:\Users\eduar\Desktop\Rosalind\Transcribing DNA into RNA\Transcribing DNA into RNA\obj\Debug\Transcribing DNA into RNA.pdb
