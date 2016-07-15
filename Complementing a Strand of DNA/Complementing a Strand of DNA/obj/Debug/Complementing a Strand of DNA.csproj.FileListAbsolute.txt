@@ -1,0 +1,6 @@
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\bin\Debug\Complementing a Strand of DNA.exe.config
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\bin\Debug\Complementing a Strand of DNA.exe
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\bin\Debug\Complementing a Strand of DNA.pdb
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\obj\Debug\Complementing a Strand of DNA.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\obj\Debug\Complementing a Strand of DNA.exe
+C:\Users\eduar\Desktop\Rosalind\Complementing a Strand of DNA\Complementing a Strand of DNA\obj\Debug\Complementing a Strand of DNA.pdb
